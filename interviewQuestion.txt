@@ -1,5 +1,16 @@
-What happens at compile time?
-COMPILER -> Difference between JDK, JRE, and JVM?
+----------------Java Interview Questions----------------
+
+COMPILER:
+
+1- What happens when you compile Java code?   
+source code -> Java Compiler -> Byte Code -> Java Virtual Machime (JVM) -> OS
+
+2-Difference between JDK, JRE, and JVM?
+
+
+
+
+
 DATA TYPE -> what is diffrence between primitive and noun primitive in java?
 OOP -> What are the main principles of OOP?
 INHERITENCE -> what is Inheritance?
